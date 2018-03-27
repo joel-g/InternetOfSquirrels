@@ -22,7 +22,7 @@ namespace Squinder.Controllers
         private string clientId = ConfigurationManager.AppSettings["ida:ClientId"];
         private string appKey = ConfigurationManager.AppSettings["ida:ClientSecret"];
         private string aadInstance = ConfigurationManager.AppSettings["ida:AADInstance"];
-        private string graphResourceID = "https://graph.windows.net";
+        private string graphResourceID = "https://graph.windows.net/";
 
         // GET: UserProfile
         public async Task<ActionResult> Index()

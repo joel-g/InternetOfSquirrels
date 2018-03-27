@@ -106,3 +106,5 @@ C:\Users\v-joegue\source\repos\InternetOfSquirrels\Squinder\Squinder\obj\Debug\S
 C:\Users\v-joegue\source\repos\InternetOfSquirrels\Squinder\Squinder\obj\Debug\Squinder.csproj.CoreCompileInputs.cache
 C:\Users\v-joegue\source\repos\InternetOfSquirrels\Squinder\Squinder\obj\Debug\Squinder.dll
 C:\Users\v-joegue\source\repos\InternetOfSquirrels\Squinder\Squinder\obj\Debug\Squinder.pdb
+C:\Users\v-joegue\source\repos\InternetOfSquirrels\Squinder\Squinder\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\v-joegue\source\repos\InternetOfSquirrels\Squinder\Squinder\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
