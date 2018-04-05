@@ -105,3 +105,4 @@ C:\Users\v-joegue\source\repos\InternetOfSquirrels\Squitter\Squitter\bin\zh-Hant
 C:\Users\v-joegue\source\repos\InternetOfSquirrels\Squitter\Squitter\obj\Release\Squitter.csproj.CoreCompileInputs.cache
 C:\Users\v-joegue\source\repos\InternetOfSquirrels\Squitter\Squitter\obj\Release\Squitter.dll
 C:\Users\v-joegue\source\repos\InternetOfSquirrels\Squitter\Squitter\obj\Release\Squitter.pdb
+C:\Users\v-joegue\source\repos\InternetOfSquirrels\Squitter\Squitter\obj\Release\Squitter.csprojResolveAssemblyReference.cache
